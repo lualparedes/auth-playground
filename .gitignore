@@ -1,2 +1,6 @@
+# General stuff
 *.swp
 **/node_modules
+
+# Backend
+**/config.js
